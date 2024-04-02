@@ -86,18 +86,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
-
-{%
-  include button.html
-  link="https://twitter.com/MerlinCrossley"
-  text="Check out Merlin on Twitter!"
-  icon="fa-solid fa-arrow-right"
-  flip=false
-  style="bare"
-%}
-
-{% endcapture %}
-
+<center>
 <a class="twitter-timeline" data-width="500" data-height="400" data-theme="light" href="https://twitter.com/MerlinCrossley?ref_src=twsrc%5Etfw">Tweets by MerlinCrossley</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+</center>
