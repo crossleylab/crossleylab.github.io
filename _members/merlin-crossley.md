@@ -7,6 +7,12 @@ aliases:
     - M.Crossley
     - Merlin Crossley
     - M Crossley
+    - Crossley M
+links:
+    google-scholar: 22Lp1FkAAAAJ
+    orcid: 0000-0003-2057-3642
+    home-page: https://www.unsw.edu.au/staff/merlin-crossley
+    twitter: MerlinCrossley
 ---
 
 Professor Merlin Crossley has experience leading both Education and Research portfolios, and has served as Dean of Science and in several DVC roles at UNSW. He is also a Pro-Chancellor of the university and contributes at graduations.

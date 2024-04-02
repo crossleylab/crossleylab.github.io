@@ -8,11 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: 
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
+  google-scholar: 22Lp1FkAAAAJ
+  orcid: 0000-0003-2057-3642
+  twitter: MerlinCrossley
 
 ### jekyll settings
 
