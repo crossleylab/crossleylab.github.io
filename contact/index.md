@@ -31,7 +31,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/babs-inside.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}
@@ -41,7 +40,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/babs-outside.jpg"
-  caption="Lorem ipsum"
 %}
 
 {% endcapture %}

@@ -24,6 +24,7 @@ His lab works on CRISPR gene editing to treat inherited blood disorders. He has 
 In 2021 a new species of iridescent butterfly bobtail squid was named in his honour – Iridoteuthis merlini – Merlin’s bobtail squid.
 
 {% include section.html %}
+## Merlin's Publications
 {% include search-box.html %}
 
 {% include search-info.html %}

@@ -6,7 +6,7 @@
 {%
   include figure.html
   image="images/lab-grad.jpg"
-  width="80%"
+  width="85%"
 %}
 
 Discover our research investigating the fundamental mechanisms underlying specific gene control, in the context of blood and metabolic disorders. From debilitating blood diseases to controlling obesity, our research projects aim to come up with solutions to global issues.
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -32,9 +32,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-018-0085-0/MediaObjects/41588_2018_85_Fig2_HTML.jpg?as=webp"
+  link="publications"
+  title="Browse our publications"
   text=text
 %}
 
@@ -44,8 +44,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Our Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -55,9 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/merlin-lab.jpg"
+  link="research"
+  title="Our Research"
   flip=true
   style="bare"
   text=text
