@@ -214,7 +214,7 @@
   publisher: Nature Genetics
   date: '2021-08-01'
   link: https://doi.org/gmtqgh
-  orcid: 0000-0003-2057-3642
+  orcid: 0000-0003-4677-8208
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.molcel.2020.11.006
@@ -2284,5 +2284,95 @@
   date: '1990-01-01'
   link: https://doi.org/b2n6hd
   orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-023-01488-7
+  title: 'Author Correction: HIC2 controls developmental hemoglobin switching by repressing
+    BCL11A transcription'
+  authors:
+  - Peng Huang
+  - Scott A. Peslak
+  - Ren Ren
+  - Eugene Khandros
+  - Kunhua Qin
+  - Cheryl A. Keller
+  - Belinda Giardine
+  - Henry W. Bell
+  - Xianjiang Lan
+  - Malini Sharma
+  - John R. Horton
+  - Osheiza Abdulmalik
+  - Stella T. Chou
+  - Junwei Shi
+  - Merlin Crossley
+  - Ross C. Hardison
+  - Xiaodong Cheng
+  - Gerd A. Blobel
+  publisher: Nature Genetics
+  date: '2023-07-31'
+  link: https://doi.org/gtpvx6
+  orcid: 0000-0003-4677-8208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-022-01152-6
+  title: HIC2 controls developmental hemoglobin switching by repressing BCL11A transcription
+  authors:
+  - Peng Huang
+  - Scott A. Peslak
+  - Ren Ren
+  - Eugene Khandros
+  - Kunhua Qin
+  - Cheryl A. Keller
+  - Belinda Giardine
+  - Henry W. Bell
+  - Xianjiang Lan
+  - Malini Sharma
+  - John R. Horton
+  - Osheiza Abdulmalik
+  - Stella T. Chou
+  - Junwei Shi
+  - Merlin Crossley
+  - Ross C. Hardison
+  - Xiaodong Cheng
+  - Gerd A. Blobel
+  publisher: Nature Genetics
+  date: '2022-08-08'
+  link: https://doi.org/gqmrr6
+  orcid: 0000-0003-4677-8208
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.65421
+  title: Identification of novel HPFH-like mutations by CRISPR base editing that elevate
+    the expression of fetal hemoglobin
+  authors:
+  - Nithin Sam Ravi
+  - Beeke Wienert
+  - Stacia K Wyman
+  - Henry William Bell
+  - Anila George
+  - Gokulnath Mahalingam
+  - Jonathan T Vu
+  - Kirti Prasad
+  - Bhanu Prasad Bandlamudi
+  - Nivedhitha Devaraju
+  - Vignesh Rajendiran
+  - Nazar Syedbasha
+  - Aswin Anand Pai
+  - Yukio Nakamura
+  - Ryo Kurita
+  - Muthuraman Narayanasamy
+  - Poonkuzhali Balasubramanian
+  - Saravanabhavan Thangavel
+  - Srujan Marepally
+  - Shaji R Velayudhan
+  - Alok Srivastava
+  - Mark A DeWitt
+  - Merlin Crossley
+  - Jacob E Corn
+  - Kumarasamypet M Mohankumar
+  publisher: eLife
+  date: '2022-02-11'
+  link: https://doi.org/gtpvx7
+  orcid: 0000-0003-4677-8208
   plugin: orcid.py
   file: orcid.yaml
