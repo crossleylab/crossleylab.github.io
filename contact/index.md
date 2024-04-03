@@ -30,7 +30,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/babs-inside.jpg"
+  image="images/babs-inside.png"
 %}
 
 {% endcapture %}
