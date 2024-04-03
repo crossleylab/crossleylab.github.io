@@ -70,6 +70,12 @@
         url=d.url
         width=d.width
       %}
+    {% else %} 
+      <script>
+        console.log("Citation NOT displayed:", {{ d.title }});
+        console.log("Author Filter:", {{ author_filter }}); 
+        console.log("Authors String:", {{ d.authors  }});
+      </script>
     {% endif %}
   {% endfor %}
-{% endfor %}
+{% endfor %} 
