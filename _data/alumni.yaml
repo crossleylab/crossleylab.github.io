@@ -58,3 +58,15 @@
 - name: Alister Funnell
   role: postdoc
   description: PhD Student/Postdoc 
+- name: Cassie Mak
+  role: postdoc
+  description: PhD Student/Postdoc
+- name: Richard Pearson
+  role: postdoc
+  description: Senior Postdoc
+- name: Kate Quinlan
+  role: postdoc
+  description: PhD Student/Senior Postdoc
+- name: Daniel Vitale
+  role: undergrad
+  description: Honours Student
