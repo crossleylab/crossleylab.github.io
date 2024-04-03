@@ -20,6 +20,15 @@
   {% endif %}
 
   {% for d in data %}
+  {% assign has_author = false %}
+  {% for author in d.authors %}
+    {% if author == author_filter %}
+      {% assign has_author = true %}
+      {% break %} 
+    {% endif %}
+  {% endfor %}
+
+  {% if author_filter == "" or has_author %} 
     {% assign style = d.style | default: include.style %}
 
     {%
