@@ -26,4 +26,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include list.html data="citations" component="citation" style="rich" filters="authors:Merlin Crossley" %}
 {% include list.html data="citations" component="citation" style="rich" filters="authors:M Crossley" %}
-{% include list.html data="citations" component="citation" style="rich" filters="authors:M.Crossley" %}
+{% include list.html data="citations" component="citation" style="rich" filters="authors:M\.Crossley" %}
