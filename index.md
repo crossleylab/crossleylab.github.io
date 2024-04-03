@@ -99,6 +99,7 @@ Check out our blog, What's Lab Life Like? (WLLL) or Merlin's Twitter!
   style="bare"
 %}
 
-<center>
+{% endcapture %}
+
 <a class="twitter-timeline" data-width="500" data-height="400" data-theme="light" href="https://twitter.com/MerlinCrossley?ref_src=twsrc%5Etfw">Tweets by MerlinCrossley</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
+
