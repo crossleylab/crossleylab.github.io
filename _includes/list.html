@@ -1,18 +1,9 @@
 {% assign emptyarray = "" | split: "," %}
-{% assign data = site.data[include.data] 
-  | default: site[include.data] 
-  | default: emptyarray 
+{% assign data = site.data[include.data]
+  | default: site[include.data]
+  | default: emptyarray
   | data_filter: include.filters
 %}
-
-{% capture filters %}{{ include.filters | default: "" | split: " " }}{% endcapture %} 
-{% assign author_filter = "" %} 
-
-{% for filter in filters %}
-  {% if filter contains: 'author=' %}
-    {% assign author_filter = filter | split: '=' | last %}
-  {% endif %} 
-{% endfor %}
 
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
@@ -21,61 +12,47 @@
 %}
 
 {% for year in years %}
-  {% assign data = year.items %} 
+  {% assign data = year.items %}
 
-  {% if years.size > 1 %} 
-    <h3 id="{{ year.name }}">{{ year.name }}</h3>
+  {% if years.size > 1 %}
+    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
     {% assign data = data | sort: "date" | reverse %}
   {% endif %}
 
   {% for d in data %}
-    {% assign has_author = false %}
+    {% assign style = d.style | default: include.style %}
 
-    {% if author_filter != "" and d.authors contains author_filter %}
-      {% assign has_author = true %}
-    {% endif %}
-
-    {% if author_filter == "" or has_author %} 
-      {% assign style = d.style | default: include.style %}
-
-      {%
-        include {{ include.component | append: ".html" }}
-        author=d.author
-        authors=d.authors
-        buttons=d.buttons
-        caption=d.caption
-        content=d.content
-        date=d.date
-        description=d.description
-        excerpt=d.excerpt
-        height=d.height
-        icon=d.icon
-        id=d.id
-        image=d.image
-        last_modified_at=d.last_modified_at
-        link=d.link
-        lookup=d.lookup
-        name=d.name
-        publisher=d.publisher
-        repo=d.repo
-        role=d.role
-        slug=d.slug
-        style=style
-        subtitle=d.subtitle
-        tags=d.tags
-        text=d.text
-        title=d.title
-        tooltip=d.tooltip
-        type=d.type
-        url=d.url
-        width=d.width
-      %}
-    {% else %} 
-      <script>
-        console.log("Citation NOT displayed:", {{ d.title }});
-        console.log("Author Filter:", {{ author_filter }}); 
-        console.log("Authors String:", {{ d.authors  }});
-      </script>
-    {% endif %}
+    {%
+      include {{ include.component | append: ".html" }}
+      author=d.author
+      authors=d.authors
+      buttons=d.buttons
+      caption=d.caption
+      content=d.content
+      date=d.date
+      description=d.description
+      excerpt=d.excerpt
+      height=d.height
+      icon=d.icon
+      id=d.id
+      image=d.image
+      last_modified_at=d.last_modified_at
+      link=d.link
+      lookup=d.lookup
+      name=d.name
+      publisher=d.publisher
+      repo=d.repo
+      role=d.role
+      slug=d.slug
+      style=style
+      subtitle=d.subtitle
+      tags=d.tags
+      text=d.text
+      title=d.title
+      tooltip=d.tooltip
+      type=d.type
+      url=d.url
+      width=d.width
+    %}
   {% endfor %}
-{% endfor %} 
+{% endfor %}
