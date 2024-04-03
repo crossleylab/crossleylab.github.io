@@ -29,24 +29,13 @@
   {% endif %}
 
   {% for d in data %}
-    <script>
-       console.log("Authors:", {{ d.authors | join: ", " }});
-    </script>
-
     {% assign has_author = false %}
-    {% for author in d.authors %}
-      {% if author == author_filter %}
-        {% assign has_author = true %}
-        {% break %} 
-      {% endif %}
-    {% endfor %}
+
+    {% if author_filter != "" and d.authors contains author_filter %}
+      {% assign has_author = true %}
+    {% endif %}
 
     {% if author_filter == "" or has_author %} 
-      <script>
-        console.log("Citation displayed:", {{ d.title }});
-        console.log("Author Filter:", {{ author_filter }}); 
-        console.log("Matching Author Found:", {{ has_author }});
-      </script>
       {% assign style = d.style | default: include.style %}
 
       {%
@@ -83,4 +72,4 @@
       %}
     {% endif %}
   {% endfor %}
-{% endfor %} 
+{% endfor %}
