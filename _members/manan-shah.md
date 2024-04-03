@@ -23,5 +23,5 @@ Manan completed a Bachelor of Science (Advanced) in 2016 and a PhD (Biochemistry
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="authors:(?Manan Shah|M.Shah|M Shah)" %}
+{% include list.html data="citations" component="citation" style="rich" filters="authors:(?Manan Shah|M\.Shah|M Shah)" %}
 
