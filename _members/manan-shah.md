@@ -23,4 +23,14 @@ Manan completed a Bachelor of Science (Advanced) in 2016 and a PhD (Biochemistry
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="authors:Manan Shah | authors:M Shah | orcid= 0000-0003-1390-5450" %}
+{% assign shown = false %} {% comment %} Initialize flag for each citation {% endcomment %}
+
+{% for citation in citations %}
+  {% if citation.authors == "Manan Shah" or citation.authors == "M Shah" or citation.orcid == "0000-0003-1390-5450" %}
+    {% if shown == false %} {% comment %} Check if the citation has been shown{% endcomment %}
+      {% include list.html data=citation component="citation" style="rich" %}
+      {% assign shown = true %} {% comment %} Mark citation as shown {% endcomment %}
+    {% endif %}
+    {% assign shown = false %}  {% comment %} Reset flag for the next iteration {% endcomment %}
+  {% endif %}
+{% endfor %}
