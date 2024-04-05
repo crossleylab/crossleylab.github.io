@@ -5,7 +5,7 @@ nav:
   tooltip: Our research
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# {% include icon.html icon="fa-light fa-dna" %}Research
 
 Recently we have been focussing on naturally occurring mutations that boost fetal globin gene expression, and are associated with Hereditary Persistence of Fetal Hemoglobin (HPFH). We have characterised the mechanisms of action of point mutations in the fetal globin promoter, and larger deletions that remove the adult promoter and alleviate enhancer competition. Editing in these mutations with CRISPR represents the latest therapy for beta-hemoglobinopathies, such as Sickle Cell Disease and thalassemia.
 

@@ -10,6 +10,7 @@ nav:
 <center>
 We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at UNSW Sydney, Australia.
 </center>
+
 {%
   include button.html
   type="email"
@@ -24,7 +25,6 @@ We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at U
 %}
 
 {% include section.html %}
-
 {% capture col1 %}
 
 {%
@@ -51,8 +51,5 @@ We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at U
 %}
 
 {% endcapture %}
-
-
-
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
