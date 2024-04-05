@@ -54,7 +54,7 @@ $wrap: 800px;
 }
 
 .citation-title {
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
 }
 
 .citation-text > .icon {
@@ -69,6 +69,7 @@ $wrap: 800px;
 
 .citation-publisher {
   text-transform: capitalize;
+  font-weight: 550;
 }
 
 .citation-description {
