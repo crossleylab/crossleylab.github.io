@@ -7,14 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In recent years we have published papers in Nature Genetics, Nature Communications, Blood, and Nucleic Acids Research on mechanisms underlying HPFH and on how zinc finger proteins identify their target genes. We continue to explore how promoters interact with enhancers, and how transcription factors operate.
 
 {% include section.html %}
 
 ## Highlighted
 
 {% include citation.html lookup="Disrupting the adult globin promoter alleviates promoter competition and reactivates fetal globin gene expression" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.ymthe.2024.01.023" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41588-023-01434-7" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41588-022-01152-6" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.tig.2022.07.003" style="rich" %}
 
 {% include section.html %}
 
