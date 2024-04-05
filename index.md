@@ -8,9 +8,9 @@
   image="images/lab-grad.jpg"
   width="85%"
 %}
-
+<center>
 We’re interested in the fundamental mechanisms underlying gene regulation, and use the globin genes as a model system.
-
+</center>
 {% include section.html %}
 
 ## Highlights

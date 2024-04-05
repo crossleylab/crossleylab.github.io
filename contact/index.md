@@ -7,8 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+<center>
 We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at UNSW Sydney, Australia.
-
+</center>
 {%
   include button.html
   type="email"
