@@ -20,7 +20,7 @@ Recently we have been focussing on naturally occurring mutations that boost feta
 
 {%
   include feature.html
-  image=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838343/bin/gkv1380fig7.jpg
+  image="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838343/bin/gkv1380fig7.jpg"
   title="Understanding how transcription factors identify their target genes, via domains other than the DNA-binding domain"
   flip=false
 %}
