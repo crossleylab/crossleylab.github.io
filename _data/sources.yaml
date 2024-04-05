@@ -10,3 +10,9 @@
   image: https://iiif.elifesciences.org/lax/65421%2Felife-65421-fig5-v2.tif/full/1234,/0/default.webp
 - id: doi:10.1016/j.tig.2022.07.003
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9837857/bin/nihms-1828329-f0001.jpg
+- id: https://doi.org/10.1016/j.omtn.2023.09.002
+  image: https://www.cell.com/cms/attachment/e0494638-0fb5-4240-81c0-848de09822e2/fx1.jpg
+- id: https://doi.org/10.1038/s41467-020-16388-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16388-1/MediaObjects/41467_2020_16388_Fig6_HTML.png?as=webp
+- id: https://doi.org/10.1002/bies.201900041
+  image: https://onlinelibrary.wiley.com/cms/asset/ed179679-453a-4b2e-a162-e97f97a104ae/bies201900041-fig-0001-m.jpg
