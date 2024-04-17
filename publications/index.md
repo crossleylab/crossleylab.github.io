@@ -17,7 +17,7 @@ In recent years we have published papers in Nature Genetics, Nature Communicatio
 {% include citation.html lookup="doi:10.1038/s41588-023-01434-7" style="rich" %}
 {% include citation.html lookup="doi:10.1038/s41588-022-01152-6" style="rich" %}
 {% include citation.html lookup="doi:10.1016/j.tig.2022.07.003" style="rich" %}
-{% include citation.html lookup="doi:10.7554/eLife.65421" style="rich" %}
+{% include citation.html lookup="doi:10.7554/elife.65421" style="rich" %}
 {% include citation.html lookup="Disrupting the adult globin promoter alleviates promoter competition and reactivates fetal globin gene expression" style="rich" %}
 
 
