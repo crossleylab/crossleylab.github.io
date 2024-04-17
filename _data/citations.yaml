@@ -34,8 +34,9 @@
   date: '2023-12-01'
   link: https://doi.org/gtppq6
   orcid: 0000-0003-1390-5450
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/attachment/e0494638-0fb5-4240-81c0-848de09822e2/fx1.jpg
 - id: doi:10.1126/sciadv.abg0088
   title: "<i>ACTN3</i>\n            genotype influences skeletal muscle mass regulation\
     \ and response to dexamethasone"
@@ -263,8 +264,9 @@
   date: '2020-05-22'
   link: https://doi.org/gtpk99
   orcid: 0000-0003-2057-3642
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16388-1/MediaObjects/41467_2020_16388_Fig6_HTML.png?as=webp
 - id: doi:10.1038/s41467-020-16758-9
   title: "Eosinophil function in adipose tissue is regulated by Kr\xFCppel-like factor\
     \ 3 (KLF3)"
@@ -2376,8 +2378,9 @@
   date: '2022-02-11'
   link: https://doi.org/gtpvx7
   orcid: 0000-0003-4677-8208
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://iiif.elifesciences.org/lax/65421%2Felife-65421-fig5-v2.tif/full/1234,/0/default.webp
 - id: doi:10.1016/j.ymthe.2024.01.023
   title: Base editing of key residues in the BCL11A-XL-specific zinc finger domains
     derepresses fetal globin expression
@@ -2451,68 +2454,7 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01434-7/MediaObjects/41588_2023_1434_Fig3_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.65421
-  title: Identification of novel HPFH-like mutations by CRISPR base editing that elevate
-    the expression of fetal hemoglobin
-  authors:
-  - Nithin Sam Ravi
-  - Beeke Wienert
-  - Stacia K Wyman
-  - Henry William Bell
-  - Anila George
-  - Gokulnath Mahalingam
-  - Jonathan T Vu
-  - Kirti Prasad
-  - Bhanu Prasad Bandlamudi
-  - Nivedhitha Devaraju
-  - Vignesh Rajendiran
-  - Nazar Syedbasha
-  - Aswin Anand Pai
-  - Yukio Nakamura
-  - Ryo Kurita
-  - Muthuraman Narayanasamy
-  - Poonkuzhali Balasubramanian
-  - Saravanabhavan Thangavel
-  - Srujan Marepally
-  - Shaji R Velayudhan
-  - Alok Srivastava
-  - Mark A DeWitt
-  - Merlin Crossley
-  - Jacob E Corn
-  - Kumarasamypet M Mohankumar
-  publisher: eLife
-  date: '2022-02-11'
-  link: https://doi.org/gtpvx7
-  image: https://iiif.elifesciences.org/lax/65421%2Felife-65421-fig5-v2.tif/full/1234,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.1016/j.omtn.2023.09.002
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1016/j.omtn.2023.09.002
-  image: https://www.cell.com/cms/attachment/e0494638-0fb5-4240-81c0-848de09822e2/fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.1038/s41467-020-16388-1
-  title: Methylation of a CGATA element inhibits binding and regulation by GATA-1
-  authors:
-  - Lu Yang
-  - Zhiliang Chen
-  - Elizabeth S. Stout
-  - Fabien Delerue
-  - Lars M. Ittner
-  - Marc R. Wilkins
-  - Kate G. R. Quinlan
-  - Merlin Crossley
-  publisher: Nature Communications
-  date: '2020-05-22'
-  link: https://www.nature.com/articles/s41467-020-16388-1
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16388-1/MediaObjects/41467_2020_16388_Fig6_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- id: https://doi.org/10.1002/bies.201900041
+- id: doi:/10.1002/bies.201900041
   title: Hit and Run Transcriptional Repressors Are Difficult to Catch in the Act
   authors:
   - Manan Shah
@@ -2520,8 +2462,8 @@
   - Kate G. R. Quinlan
   - Merlin Crossley
   publisher: BioEssays
-  date: '2019-08-01'
-  link: https://onlinelibrary.wiley.com/doi/10.1002/bies.201900041
+  date: '2019-06-27'
+  link: https://doi.org//10.1002/bies.201900041
   image: https://onlinelibrary.wiley.com/cms/asset/ed179679-453a-4b2e-a162-e97f97a104ae/bies201900041-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml

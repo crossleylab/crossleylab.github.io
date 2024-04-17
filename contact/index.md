@@ -10,6 +10,7 @@ nav:
 <center>
 We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at UNSW Sydney, Australia.
 </center>
+
 {%
   include button.html
   type="email"
@@ -20,11 +21,10 @@ We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at U
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/HetxrHnYsdmfT39r6"
 %}
 
 {% include section.html %}
-
 {% capture col1 %}
 
 {%
@@ -43,5 +43,13 @@ We are located on L3 E26, School of Biotechnology and Biomolecular Sciences at U
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="https://vse.apru.org/wp-content/uploads/2020/11/upage_UNSW.png"
+%}
+
+{% endcapture %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
