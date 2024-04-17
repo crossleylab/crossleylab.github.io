@@ -5,7 +5,7 @@ nav:
   tooltip: Keep up with news from the Crossley Lab!
 ---
 
-# {% include icon.html icon="fa-duotone fa-newspaper" %}News
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 
 {% include section.html %}

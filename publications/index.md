@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-notebook" %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 In recent years we have published papers in Nature Genetics, Nature Communications, Blood, and Nucleic Acids Research on mechanisms underlying HPFH and on how zinc finger proteins identify their target genes. We continue to explore how promoters interact with enhancers, and how transcription factors operate.
 
