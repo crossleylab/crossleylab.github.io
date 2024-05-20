@@ -22,6 +22,7 @@ Recently we have been focussing on naturally occurring mutations that boost feta
   include feature.html
   image="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838343/bin/gkv1380fig7.jpg"
   title="Understanding how transcription factors identify their target genes, via domains other than the DNA-binding domain"
+  text="The genomic localisation of transcription factors (TFs) was traditionally thought to be solely determined by their DNA binding domains (DBDs) binding to a specific DNA motif. However, in vivo studies such as early ChIP-seq experiments demonstrated that TFs only bind a fraction of their motifs (often <1%) in vivo. This led us and others to investigate other factors that affect specificity. Using a model zinc finger TF, KLF3, we have previously shown that its functional or effector domain via protein-protein interactions also influences its genomic localisation. We are now further exploring how this translates to the whole KLF family and how epigenetic partner proteins may be involved."
   flip=false
 %}
 
