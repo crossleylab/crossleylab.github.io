@@ -3,6 +3,11 @@ name: Anthea Lee
 image: images/anthea.jpeg
 role: phd
 description: PhD Student
+aliases:
+    - A Lee
+    - Anthea Lee
+    - Lee Anthea
+    - Lee A
 ---
 
-Annalise completed a Bachelor of Advanced Science (1st Class Honours) with the University Medal in Genetics at UNSW in 2019. She began in the lab as an undergraduate project student in 2018, completed her Honour’s project in the lab in 2019, and is currently a 4th year Scientia PhD Scholar. Annalise’s project focuses on key transcription factors in adipose eosinophils, as well as finding novel beiging factors. In her spare time Annalise enjoys hiking, ocean swims, and playing piano. 
+Anthea completed a Bachelor of Advanced Science (Honours) at UNSW, majoring in Molecular and Cell Biology, for which she received the University Medal in Molecular and Cell Biology in 2021. She also completed a Bachelor of Arts, majoring in Spanish and Latin American Studies. She joined the lab for her Honours in 2021 and is currently in her second year of her PhD candidature. Anthea has two projects. The first focuses on investigating human adipose tissue-resident eosinophils, with the goal of discovering novel eosinophil-secreted factors that could be targeted to treat obesity. The second project involves the development of a CRISPR-based approach to therapeutically treat muscle disorders. In her spare time Anthea enjoys reading, napping, and playing piano.
