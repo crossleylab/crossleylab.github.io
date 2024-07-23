@@ -1,5 +1,5 @@
 ---
-name: Annalise Psaila    
+name: Dr Annalise Psaila    
 image: images/annalise.jpeg
 role: postdoc
 description: Postdoctoral Fellow
