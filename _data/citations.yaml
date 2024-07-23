@@ -1048,7 +1048,7 @@
   file: orcid.yaml
 - id: doi:10.1128/MCB.00173-12
   title: The CACCC-Binding Protein KLF3/BKLF Represses a Subset of KLF1/EKLF Target
-    Genes and Is Required for Proper Erythroid Maturation <i>In Vivo</i>
+    Genes and Is Required for Proper Erythroid Maturation<i>In Vivo</i>
   authors:
   - Alister P. W. Funnell
   - Laura J. Norton
@@ -2463,7 +2463,7 @@
   - Merlin Crossley
   publisher: BioEssays
   date: '2019-06-27'
-  link: https://doi.org//10.1002/bies.201900041
+  link: https://doi.org/ggrskg
   image: https://onlinelibrary.wiley.com/cms/asset/ed179679-453a-4b2e-a162-e97f97a104ae/bies201900041-fig-0001-m.jpg
   plugin: sources.py
   file: sources.yaml
