@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2139/ssrn.4988511
+  title: SMYD5 Is a Ribosomal Methyltransferase Which Trimethylates RPL40 Lysine 22
+    Through Recognition of a KXY Motif
+  authors:
+  - Joshua  J. Hamey
+  - Manan Shah
+  - John  D. Wade
+  - Tara  K. Bartolec
+  - Richard  EH Wettenhall
+  - Kate  GR Quinlan
+  - Nick Williamson
+  - Marc  R. Wilkins
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/g86m5f
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.10.616381
+  title: SMYD5 is a ribosomal methyltransferase which trimethylates RPL40 lysine 22
+    through recognition of a KXY motif
+  authors:
+  - Joshua J. Hamey
+  - Manan Shah
+  - John D. Wade
+  - Tara K. Bartolec
+  - Richard E. H. Wettenhall
+  - Kate G.R. Quinlan
+  - Nicholas A. Williamson
+  - Marc R. Wilkins
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-11'
+  link: https://doi.org/g86m5g
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/jleuko/qiac009
   title: Blood and adipose-resident eosinophils are defined by distinct transcriptional
     profiles
@@ -60,7 +96,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.11.20.392282
-  title: <i>ACTN3</i> genotype influences skeletal muscle mass regulation and response
+  title: <i>ACTN3</i>genotype influences skeletal muscle mass regulation and response
     to dexamethasone
   authors:
   - J.T. Seto
@@ -146,6 +182,22 @@
   date: '2016-10-06'
   link: https://doi.org/f3rgpq
   orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jscdis/yoae008
+  title: Hydroxyurea reduces the levels of the fetal <i>globin</i> gene repressors
+    ZBTB7A/LRF and BCL11A in erythroid cells <i>in vitro</i>
+  authors:
+  - Gabriella E Martyn
+  - Phillip A Doerfler
+  - Yu Yao
+  - Kate G R Quinlan
+  - Mitchell J Weiss
+  - Merlin Crossley
+  publisher: Journal of Sickle Cell Disease
+  date: '2024-01-01'
+  link: https://doi.org/g86m5h
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.tig.2022.07.003
@@ -391,7 +443,7 @@
   - Jinfen J. Yik
   - Merlin Crossley
   - Kate G. R. Quinlan
-  publisher: Erythropoiesis
+  publisher: Methods in Molecular Biology
   date: '2017-10-27'
   link: https://doi.org/gtpmbg
   orcid: 0000-0003-2057-3642
@@ -792,7 +844,7 @@
   - Merlin Crossley
   - Alister PW Funnell
   publisher: Genome Biology
-  date: '2014-04-01'
+  date: '2014-04-30'
   link: https://doi.org/f59w4x
   orcid: 0000-0003-2057-3642
   plugin: orcid.py
