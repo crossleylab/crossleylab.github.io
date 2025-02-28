@@ -8,7 +8,7 @@ aliases:
 - Shah M
 - Manan Shah
 - Shah Manan
-description: Postdoctoral Fellow
+description: Research Associate
 links:
     google-scholar: 4NgFbKoAAAAJ
     orcid: 0000-0003-1390-5450

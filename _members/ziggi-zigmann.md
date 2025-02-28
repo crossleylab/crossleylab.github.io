@@ -1,8 +1,8 @@
 ---
-name: Tia Valentini
+name: Ziggi Zikmann
 image: images/photo.jpg
 role: undergrad
-group: alum
+group: active
 description: Honours Student
 ---
 
