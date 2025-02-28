@@ -5,7 +5,7 @@
 
 {%
   include figure.html
-  image="images/lab-grad.jpg"
+  image="images/2024-lab-team.jpg"
   width="85%"
 %}
 <center>
