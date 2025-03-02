@@ -1,12 +1,15 @@
 - name: Catheryn Lim
   role: postdoc
   description: PhD Student/Postdoc
+  image: images/cath.jpg
 - name: Gabriella Martyn      
   role: postdoc
   description: PhD Student/Postdoc
+  image: images/gab-martyn.jpg
 - name: Lu Yang
   role: postdoc
   description: PhD Student/Postdoc
+  image: images/ly-yang.jpg
 - name: Crisbel Artuz
   role: phd
   description: PhD Student
@@ -16,9 +19,11 @@
 - name: Beeke Wienert
   role: postdoc
   description: PhD Student/Postdoc  
+  image: images/beeke.jpg
 - name: Jasmine Yik
   role: phd
   description: PhD Student
+  image: images/jasmine.jpg
 - name: Lana Ly
   role: postdoc
   description: PhD Student/Postdoc 
@@ -37,12 +42,14 @@
 - name: Emily Vohralik
   role: postdoc
   description: PhD Student/Postdoc
+  image: images/emily-vohralik.jpg
 - name: Sarah Topfer
   role: phd
   description: PhD Student  
 - name: Lauren Sullivan
   role: undergrad
   description: Honours Student
+  image: images/lauren-sullivan.jpg
 - name: Dixie Papast
   role: labmanager
   description: Lab Manager
