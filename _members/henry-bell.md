@@ -2,6 +2,7 @@
 name: Dr Henry Bell 
 image: images/henry.jpeg
 role: postdoc
+group: alum
 description: Postdoctoral Fellow
 aliases:
     - Henry Bell

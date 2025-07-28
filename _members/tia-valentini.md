@@ -1,8 +1,7 @@
 ---
 name: Tia Valentini
 image: images/photo.jpg
-role: undergrad
-group: alum
-description: Honours Student
+role: phd
+description: PhD Student
 ---
 
