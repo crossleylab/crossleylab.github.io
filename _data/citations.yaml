@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.celrep.2025.115518
+  title: SMYD5 is a ribosomal methyltransferase that trimethylates RPL40 lysine 22
+    through recognition of a KXY motif
+  authors:
+  - Joshua J. Hamey
+  - Manan Shah
+  - John D. Wade
+  - Tara K. Bartolec
+  - Richard E.H. Wettenhall
+  - Kate G.R. Quinlan
+  - Nicholas A. Williamson
+  - Marc R. Wilkins
+  publisher: Cell Reports
+  date: '2025-04-01'
+  link: https://doi.org/g9f56v
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2139/ssrn.4988511
   title: SMYD5 Is a Ribosomal Methyltransferase Which Trimethylates RPL40 Lysine 22
     Through Recognition of a KXY Motif
@@ -36,21 +54,6 @@
   orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/jleuko/qiac009
-  title: Blood and adipose-resident eosinophils are defined by distinct transcriptional
-    profiles
-  authors:
-  - Manan Shah
-  - Alexander J Knights
-  - Emily J Vohralik
-  - Annalise M Psaila
-  - Kate G R Quinlan
-  publisher: Journal of Leukocyte Biology
-  date: '2023-01-20'
-  link: https://doi.org/gtpk93
-  orcid: 0000-0003-1390-5450
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.omtn.2023.09.002
   title: 'miR-365-3p mediates BCL11A and SOX6 erythroid-specific coregulation: A new
     player in HbF activation'
@@ -66,13 +69,28 @@
   - Merlin Crossley
   - Paolo Moi
   - Maria Serafina Ristaldi
-  publisher: Molecular Therapy - Nucleic Acids
+  publisher: Molecular Therapy Nucleic Acids
   date: '2023-12-01'
   link: https://doi.org/gtppq6
   orcid: 0000-0003-1390-5450
   plugin: sources.py
   file: sources.yaml
   image: https://www.cell.com/cms/attachment/e0494638-0fb5-4240-81c0-848de09822e2/fx1.jpg
+- id: doi:10.1093/jleuko/qiac009
+  title: Blood and adipose-resident eosinophils are defined by distinct transcriptional
+    profiles
+  authors:
+  - Manan Shah
+  - Alexander J Knights
+  - Emily J Vohralik
+  - Annalise M Psaila
+  - Kate G R Quinlan
+  publisher: Journal of Leukocyte Biology
+  date: '2023-01-20'
+  link: https://doi.org/gtpk93
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/sciadv.abg0088
   title: "<i>ACTN3</i>\n            genotype influences skeletal muscle mass regulation\
     \ and response to dexamethasone"
@@ -95,29 +113,7 @@
   orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.11.20.392282
-  title: <i>ACTN3</i>genotype influences skeletal muscle mass regulation and response
-    to dexamethasone
-  authors:
-  - J.T. Seto
-  - K.N. Roeszler
-  - L.R. Meehan
-  - H.D. Wood
-  - C. Tiong
-  - L. Bek
-  - S.F. Lee
-  - M. Shah
-  - K.G.R. Quinlan
-  - P. Gregorevic
-  - P.J. Houweling
-  - K.N. North
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-11-23'
-  link: https://doi.org/ghmng5
-  orcid: 0000-0003-1390-5450
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1074/jbc.ra120.013114
+- id: doi:10.1074/jbc.RA120.013114
   title: "Kr\xFCppel-like factor 3 (KLF3) suppresses NF-\u03BAB\u2013driven inflammation\
     \ in mice"
   authors:
@@ -133,7 +129,7 @@
   publisher: Journal of Biological Chemistry
   date: '2020-05-01'
   link: https://doi.org/gtpmfv
-  orcid: 0000-0003-1390-5450
+  orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/bies.201900041
@@ -172,6 +168,19 @@
   orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/ange.201605964
+  title: "A Quantitative Fluorescence\u2010Based Assay for Assessing LIM Domain\u2013\
+    Peptide Interactions"
+  authors:
+  - Neil O. Robertson
+  - Manan Shah
+  - Jacqueline M. Matthews
+  publisher: Angewandte Chemie
+  date: '2016-10-06'
+  link: https://doi.org/f3rgsk
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/anie.201605964
   title: "A Quantitative Fluorescence\u2010Based Assay for Assessing LIM Domain\u2013\
     Peptide Interactions"
@@ -182,6 +191,28 @@
   publisher: Angewandte Chemie International Edition
   date: '2016-10-06'
   link: https://doi.org/f3rgpq
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.11.20.392282
+  title: <i>ACTN3</i>genotype influences skeletal muscle mass regulation and response
+    to dexamethasone
+  authors:
+  - J.T. Seto
+  - K.N. Roeszler
+  - L.R. Meehan
+  - H.D. Wood
+  - C. Tiong
+  - L. Bek
+  - S.F. Lee
+  - M. Shah
+  - K.G.R. Quinlan
+  - P. Gregorevic
+  - P.J. Houweling
+  - K.N. North
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-11-23'
+  link: https://doi.org/ghmng5
   orcid: 0000-0003-1390-5450
   plugin: orcid.py
   file: orcid.yaml
@@ -375,25 +406,6 @@
   publisher: Science
   date: '2020-09-18'
   link: https://doi.org/gtpmzx
-  orcid: 0000-0003-2057-3642
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1074/jbc.RA120.013114
-  title: "Kr\xFCppel-like factor 3 (KLF3) suppresses NF-\u03BAB\u2013driven inflammation\
-    \ in mice"
-  authors:
-  - Alexander J. Knights
-  - Lu Yang
-  - Manan Shah
-  - Laura J. Norton
-  - Gamran S. Green
-  - Elizabeth S. Stout
-  - Emily J. Vohralik
-  - Merlin Crossley
-  - Kate G.R. Quinlan
-  publisher: Journal of Biological Chemistry
-  date: '2020-05-01'
-  link: https://doi.org/gtpmfv
   orcid: 0000-0003-2057-3642
   plugin: orcid.py
   file: orcid.yaml
@@ -1171,18 +1183,18 @@
   - Thi Thanh Vu
   - Dominique Gatto
   - Vivian Turner
-  - Alister P. W. Funnell
+  - Alister P W Funnell
   - Ka Sin Mak
-  - Laura J. Norton
+  - Laura J Norton
   - Warren Kaplan
-  - Mark J. Cowley
+  - Mark J Cowley
   - "Fabien Agen\xE8s"
   - "J\xF6rg Kirberg"
   - Robert Brink
-  - Richard C. M. Pearson
+  - Richard C M Pearson
   - Merlin Crossley
   publisher: The Journal of Immunology
-  date: '2011-11-15'
+  date: '2011-11-01'
   link: https://doi.org/bf9cg3
   orcid: 0000-0003-2057-3642
   plugin: orcid.py
@@ -2140,7 +2152,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1023/A:1008309602929
-  title: ''
+  title: The solution structure of the N-terminal zinc finger of GATA-1 reveals a
+    specific binding face for the transcriptional co-factor FOG
   authors:
   - K. Kowalski
   - R. Czolij
@@ -2148,7 +2161,7 @@
   - M. Crossley
   - J.P. Mackay
   publisher: Journal of Biomolecular NMR
-  date: '1999-01-01'
+  date: '1999-03-01'
   link: https://doi.org/bdpprz
   orcid: 0000-0003-2057-3642
   plugin: orcid.py
@@ -2340,6 +2353,31 @@
   date: '1990-01-01'
   link: https://doi.org/b2n6hd
   orcid: 0000-0003-2057-3642
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-025-62177-z
+  title: Removal of promoter CpG methylation by epigenome editing reverses HBG silencing
+  authors:
+  - Henry W. Bell
+  - Ruopeng Feng
+  - Manan Shah
+  - Yu Yao
+  - James Douglas
+  - Phillip A. Doerfler
+  - Thiyagaraj Mayuranathan
+  - "Michael F. O\u2019Dea"
+  - Yichao Li
+  - Yong-Dong Wang
+  - Jingjing Zhang
+  - Joel P. Mackay
+  - Yong Cheng
+  - Kate G. R. Quinlan
+  - Mitchell J. Weiss
+  - Merlin Crossley
+  publisher: Nature Communications
+  date: '2025-07-27'
+  link: https://doi.org/g9vfsf
+  orcid: 0000-0003-4677-8208
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41588-023-01488-7
