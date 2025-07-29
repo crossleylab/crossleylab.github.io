@@ -14,9 +14,9 @@ The lab is a vibrant learning environment, hosting a good number of PhD students
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include section.html %}
 # Current Lab Members
-{% include list.html data="members" component="portrait" filters="role: labmanager" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: labmanager, group: ^(?!alum$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: ^(?!alum$)" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: ^(?!alum$)" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: ^(?!alum$)" %}
 
 
