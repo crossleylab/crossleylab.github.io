@@ -13,6 +13,7 @@ In recent years we have published papers in Nature Genetics, Nature Communicatio
 
 ## Highlighted
 
+{% include citation.html lookup="doi:10.1093/nar/gkaf977" style="rich" %}
 {% include citation.html lookup="doi:10.1038/s41467-025-62177-z" style="rich" %}
 {% include citation.html lookup="doi:10.1016/j.ymthe.2024.01.023" style="rich" %}
 {% include citation.html lookup="doi:10.1038/s41588-023-01434-7" style="rich" %}
