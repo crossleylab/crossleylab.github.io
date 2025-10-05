@@ -26,6 +26,30 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-62177-z/MediaObjects/41467_2025_62177_Fig7_HTML.png?as=webp
+- id: doi:10.1093/nar/gkaf977
+  title: WDR5 serves in co-activation and influences genome targeting of KLF3
+  authors:
+  - Lu Yang
+  - Manan Shah
+  - Tanit Chavalit
+  - "Annalise\_M Spek"
+  - "Wooi\_F Lim"
+  - Ling Zhong
+  - "Vala Nejad\_Safari"
+  - Mahdi Haddad
+  - "Thu\_H Vu"
+  - "Joel\_P Mackay"
+  - "Mark\_J Raftery"
+  - "Marc\_R Wilkins"
+  - "Jacqueline\_M Mathews"
+  - "Kate\_G R Quinlan"
+  - Merlin Crossley
+  publisher: Nucleic Acids Research
+  date: '2025-09-23'
+  link: https://doi.org/g95v72
+  orcid: 0000-0003-1390-5450
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.celrep.2025.115518
   title: SMYD5 is a ribosomal methyltransferase that trimethylates RPL40 lysine 22
     through recognition of a KXY motif
@@ -2411,6 +2435,43 @@
   orcid: 0000-0003-4677-8208
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41588-023-01434-7
+  title: Potent and uniform fetal hemoglobin induction via base editing
+  authors:
+  - Thiyagaraj Mayuranathan
+  - Gregory A. Newby
+  - Ruopeng Feng
+  - Yu Yao
+  - Kalin D. Mayberry
+  - Cicera R. Lazzarotto
+  - Yichao Li
+  - Rachel M. Levine
+  - Nikitha Nimmagadda
+  - Erin Dempsey
+  - Guolian Kang
+  - Shaina N. Porter
+  - Phillip A. Doerfler
+  - Jingjing Zhang
+  - Yoonjeong Jang
+  - Jingjing Chen
+  - Henry W. Bell
+  - Merlin Crossley
+  - Senthil Velan Bhoopalan
+  - Akshay Sharma
+  - John F. Tisdale
+  - Shondra M. Pruett-Miller
+  - Yong Cheng
+  - Shengdar Q. Tsai
+  - David R. Liu
+  - Mitchell J. Weiss
+  - Jonathan S. Yen
+  publisher: Nature Genetics
+  date: '2023-07-01'
+  link: https://doi.org/gskjm2
+  orcid: 0000-0003-4677-8208
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01434-7/MediaObjects/41588_2023_1434_Fig3_HTML.png?as=webp
 - id: doi:10.1038/s41588-022-01152-6
   title: HIC2 controls developmental hemoglobin switching by repressing BCL11A transcription
   authors:
@@ -2510,41 +2571,5 @@
   date: '2024-03-01'
   link: https://doi.org/gtp5j3
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001624000236-fx1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41588-023-01434-7
-  title: Potent and uniform fetal hemoglobin induction via base editing
-  authors:
-  - Thiyagaraj Mayuranathan
-  - Gregory A. Newby
-  - Ruopeng Feng
-  - Yu Yao
-  - Kalin D. Mayberry
-  - Cicera R. Lazzarotto
-  - Yichao Li
-  - Rachel M. Levine
-  - Nikitha Nimmagadda
-  - Erin Dempsey
-  - Guolian Kang
-  - Shaina N. Porter
-  - Phillip A. Doerfler
-  - Jingjing Zhang
-  - Yoonjeong Jang
-  - Jingjing Chen
-  - Henry W. Bell
-  - Merlin Crossley
-  - Senthil Velan Bhoopalan
-  - Akshay Sharma
-  - John F. Tisdale
-  - Shondra M. Pruett-Miller
-  - Yong Cheng
-  - Shengdar Q. Tsai
-  - David R. Liu
-  - Mitchell J. Weiss
-  - Jonathan S. Yen
-  publisher: Nature Genetics
-  date: '2023-07-01'
-  link: https://doi.org/gskjm2
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01434-7/MediaObjects/41588_2023_1434_Fig3_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
