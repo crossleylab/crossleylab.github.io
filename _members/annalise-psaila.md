@@ -3,7 +3,7 @@ name: Dr Annalise Psaila
 image: images/annalise.jpeg
 role: postdoc
 description: Postdoctoral Fellow
-group:alum
+group: alum
 aliases: 
     - Annalise Psaila
     - Annalise M Psaila
