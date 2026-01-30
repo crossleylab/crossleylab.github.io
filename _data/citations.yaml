@@ -22,7 +22,7 @@
   publisher: Nature Communications
   date: '2025-07-27'
   link: https://doi.org/g9vfsf
-  orcid: 0000-0003-4677-8208
+  orcid: 0009-0004-8159-8004
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-62177-z/MediaObjects/41467_2025_62177_Fig7_HTML.png?as=webp
@@ -67,8 +67,9 @@
   date: '2025-04-01'
   link: https://doi.org/g9f56v
   orcid: 0000-0003-1390-5450
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/10.1016/j.celrep.2025.115518/asset/af15daaf-f7eb-466c-97e5-d18d5c5c40d1/main.assets/fx1.jpg
 - id: doi:10.2139/ssrn.4988511
   title: SMYD5 Is a Ribosomal Methyltransferase Which Trimethylates RPL40 Lysine 22
     Through Recognition of a KXY Motif
@@ -85,9 +86,8 @@
   date: '2024-01-01'
   link: https://doi.org/g86m5f
   orcid: 0000-0003-1390-5450
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.cell.com/cms/10.1016/j.celrep.2025.115518/asset/af15daaf-f7eb-466c-97e5-d18d5c5c40d1/main.assets/fx1.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.10.10.616381
   title: SMYD5 is a ribosomal methyltransferase which trimethylates RPL40 lysine 22
     through recognition of a KXY motif
@@ -2537,6 +2537,537 @@
   plugin: sources.py
   file: sources.yaml
   image: https://iiif.elifesciences.org/lax/65421%2Felife-65421-fig5-v2.tif/full/1234,/0/default.webp
+- id: doi:10.1126/scitranslmed.adk4802
+  title: Molecular dissection of cobra venom highlights heparinoids as an antidote
+    for spitting cobra envenoming
+  authors:
+  - Tian Y. Du
+  - Steven R. Hall
+  - Felicity Chung
+  - Sergey Kurdyukov
+  - Edouard Crittenden
+  - Karishma Patel
+  - Charlotte A. Dawson
+  - Adam P. Westhorpe
+  - Keirah E. Bartlett
+  - Sean A. Rasmussen
+  - Cesar L. Moreno
+  - Christopher E. Denes
+  - Laura-Oana Albulescu
+  - Amy E. Marriott
+  - Joel P. Mackay
+  - Mark C. Wilkinson
+  - "Jos\xE9 Mar\xEDa Guti\xE9rrez"
+  - Nicholas R. Casewell
+  - G. Gregory Neely
+  publisher: Science Translational Medicine
+  date: '2024-07-17'
+  link: https://doi.org/hbmvw3
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-37963-2
+  title: Pain-causing stinging nettle toxins target TMEM233 to modulate NaV1.7 function
+  authors:
+  - Sina Jami
+  - Jennifer R. Deuis
+  - Tabea Klasfauseweh
+  - Xiaoyang Cheng
+  - Sergey Kurdyukov
+  - Felicity Chung
+  - Andrei L. Okorokov
+  - Shengnan Li
+  - Jiangtao Zhang
+  - Ben Cristofori-Armstrong
+  - Mathilde R. Israel
+  - Robert J. Ju
+  - Samuel D. Robinson
+  - Peng Zhao
+  - Lotten Ragnarsson
+  - "\xC5sa Andersson"
+  - Poanna Tran
+  - Vanessa Schendel
+  - Kirsten L. McMahon
+  - Hue N. T. Tran
+  - Yanni K.-Y. Chin
+  - Yifei Zhu
+  - Junyu Liu
+  - Theo Crawford
+  - Saipriyaa Purushothamvasan
+  - Abdella M. Habib
+  - David A. Andersson
+  - Lachlan D. Rash
+  - John N. Wood
+  - Jing Zhao
+  - Samantha J. Stehbens
+  - Mehdi Mobli
+  - Andreas Leffler
+  - Daohua Jiang
+  - James J. Cox
+  - Stephen G. Waxman
+  - Sulayman D. Dib-Hajj
+  - G. Gregory Neely
+  - Thomas Durek
+  - Irina Vetter
+  publisher: Nature Communications
+  date: '2023-04-28'
+  link: https://doi.org/gr67ss
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/bph.15923
+  title: "The structural conformation of the tachykinin domain drives the anti\u2010\
+    tumoural activity of an octopus peptide in melanoma BRAF<sup>V600E</sup>"
+  authors:
+  - "Javier Moral\u2010Sanz"
+  - "Manuel A. Fernandez\u2010Rojo"
+  - Gonzalo Colmenarejo
+  - Sergey Kurdyukov
+  - Andreas Brust
+  - Lotten Ragnarsson
+  - "\xC5sa Andersson"
+  - Sabela F. Vila
+  - "Pablo Cabezas\u2010Sainz"
+  - Patrick Wilhelm
+  - "Ana Vela\u2010Sebasti\xE1n"
+  - "Isabel Fern\xE1ndez\u2010Carrasco"
+  - Yanni K. Y. Chin
+  - "Yaiza L\xF3pez\u2010Manche\xF1o"
+  - Taylor B. Smallwood
+  - Richard J. Clark
+  - Bryan G. Fry
+  - Glenn F. King
+  - Grant A. Ramm
+  - Paul F. Alewood
+  - Richard J. Lewis
+  - Jason P. Mulvenna
+  - Glen M. Boyle
+  - Laura E. Sanchez
+  - G. Gregory Neely
+  - John J. Miles
+  - Maria P. Ikonomopoulou
+  publisher: British Journal of Pharmacology
+  date: '2022-07-29'
+  link: https://doi.org/hbmvw4
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.ra119.011178
+  title: Lactate production is a prioritized feature of adipocyte metabolism
+  authors:
+  - James R. Krycer
+  - Lake-Ee Quek
+  - Deanne Francis
+  - Daniel J. Fazakerley
+  - Sarah D. Elkington
+  - Alexis Diaz-Vegas
+  - Kristen C. Cooke
+  - Fiona C. Weiss
+  - Xiaowen Duan
+  - Sergey Kurdyukov
+  - Ping-Xin Zhou
+  - Uttam K. Tambar
+  - Akiyoshi Hirayama
+  - Satsuki Ikeda
+  - Yushi Kamei
+  - Tomoyoshi Soga
+  - Gregory J. Cooney
+  - David E. James
+  publisher: Journal of Biological Chemistry
+  date: '2020-01-01'
+  link: https://doi.org/ghczf9
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/ajplung.00393.2018
+  title: Inositol monophosphatase 1 as a novel interacting partner of RAGE in pulmonary
+    hypertension
+  authors:
+  - Ruslan Rafikov
+  - Matthew L. McBride
+  - Marina Zemskova
+  - Sergey Kurdyukov
+  - Nolan McClain
+  - Maki Niihori
+  - Paul R. Langlais
+  - Olga Rafikova
+  publisher: American Journal of Physiology-Lung Cellular and Molecular Physiology
+  date: '2019-03-01'
+  link: https://doi.org/hbmvw5
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0203493
+  title: New cases of Glucose-6-Phosphate Dehydrogenase deficiency in Pulmonary Arterial
+    Hypertension
+  authors:
+  - Sergey Kurdyukov
+  - Cody A. Eccles
+  - Ankit A. Desai
+  - Manuel Gonzalez-Garay
+  - Jason X.-J. Yuan
+  - Joe G. N. Garcia
+  - Olga Rafikova
+  - Ruslan Rafikov
+  publisher: PLOS ONE
+  date: '2018-08-30'
+  link: https://doi.org/gd475r
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/biology5010003
+  title: 'DNA Methylation Analysis: Choosing the Right Method'
+  authors:
+  - Sergey Kurdyukov
+  - Martyn Bullock
+  publisher: Biology
+  date: '2016-01-06'
+  link: https://doi.org/gf3vqn
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3791/52635
+  title: Protocols for Obtaining Zygotic and Somatic Embryos for Studying the Regulation
+    of Early Embryo Development in the Model Legume &lt;em&gt;Medicago truncatula&lt;/em&gt;
+  authors:
+  - Sergey Kurdyukov
+  - Youhong Song
+  - Terence W-Y Tiew
+  - Xin-Ding Wang
+  - Kim E. Nolan
+  - Ray J. Rose
+  publisher: Journal of Visualized Experiments
+  date: '2015-06-09'
+  link: https://doi.org/hbmvw6
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2229-14-174
+  title: The 2HA line of Medicago truncatulahas characteristics of an epigenetic mutant
+    that is weakly ethylene insensitive
+  authors:
+  - Sergey Kurdyukov
+  - Ulrike Mathesius
+  - Kim E Nolan
+  - Michael B Sheahan
+  - Nicolas Goffard
+  - Bernard J Carroll
+  - Ray J Rose
+  publisher: BMC Plant Biology
+  date: '2014-06-21'
+  link: https://doi.org/f5863q
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00299-013-1535-x
+  title: Transcriptional regulation of early embryo development in the model legume
+    Medicago truncatula
+  authors:
+  - Sergey Kurdyukov
+  - Youhong Song
+  - Michael B. Sheahan
+  - Ray J. Rose
+  publisher: Plant Cell Reports
+  date: '2013-11-22'
+  link: https://doi.org/f5rt4k
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2229-11-44
+  title: 'Characterisation of the legume SERK-NIKgene superfamily including splice
+    variants: Implications for development and defence'
+  authors:
+  - Kim E Nolan
+  - Sergey Kurdyukov
+  - Ray J Rose
+  publisher: BMC Plant Biology
+  date: '2011-03-09'
+  link: https://doi.org/dmwdtv
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1134/S0006297911090021
+  title: Whole genome methylation scanning based on phi29 polymerase amplification
+  authors:
+  - R. Brooks
+  - R. J. Rose
+  - M. B. Sheahan
+  - S. Kurdyukov
+  publisher: Biochemistry (Moscow)
+  date: '2011-09-01'
+  link: https://doi.org/bxrzwd
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-04670-4_1
+  title: Developmental Biology of Somatic Embryogenesis
+  authors:
+  - R. J. Rose
+  - F. R. Mantiri
+  - S. Kurdyukov
+  - S-K. Chen
+  - X-D. Wang
+  - K. E. Nolan
+  - M. B. Sheahan
+  publisher: Plant Developmental Biology - Biotechnological Perspectives
+  date: '2010-01-01'
+  link: https://doi.org/dtsrqt
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1000703
+  title: Dissection of the Complex Phenotype in Cuticular Mutants of Arabidopsis Reveals
+    a Role of SERRATE as a Mediator
+  authors:
+  - Derry Voisin
+  - Christiane Nawrath
+  - Sergey Kurdyukov
+  - Rochus B. Franke
+  - "Jos\xE9 J. Reina-Pinto"
+  - Nadia Efremova
+  - Isa Will
+  - Lukas Schreiber
+  - Alexander Yephremov
+  publisher: PLoS Genetics
+  date: '2009-10-30'
+  link: https://doi.org/c8gw9j
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jxb/erp046
+  title: Expression of the SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1 (SERK1) gene
+    is associated with developmental change in the life cycle of the model legume
+    Medicago truncatula
+  authors:
+  - K. E. Nolan
+  - S. Kurdyukov
+  - R. J. Rose
+  publisher: Journal of Experimental Botany
+  date: '2009-03-19'
+  link: https://doi.org/bxwqr7
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1105/tpc.109.065565
+  title: Misexpression of FATTY ACID ELONGATION1 in the<i>Arabidopsis</i>Epidermis
+    Induces Cell Death and Suggests a Critical Role for Phospholipase A2 in This Process
+  authors:
+  - "Jose\u0301 J. Reina-Pinto"
+  - Derry Voisin
+  - Sergey Kurdyukov
+  - Andrea Faust
+  - Richard P. Haslam
+  - Louise V. Michaelson
+  - Nadia Efremova
+  - Benni Franke
+  - Lukas Schreiber
+  - Johnathan A. Napier
+  - Alexander Yephremov
+  publisher: The Plant Cell
+  date: '2009-04-01'
+  link: https://doi.org/dm3bvk
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00425-009-0988-1
+  title: The association of homeobox gene expression with stem cell formation and
+    morphogenesis in cultured Medicago truncatula
+  authors:
+  - S.-K. Chen
+  - S. Kurdyukov
+  - A. Kereszt
+  - X.-D. Wang
+  - P. M. Gresshoff
+  - R. J. Rose
+  publisher: Planta
+  date: '2009-07-29'
+  link: https://doi.org/dn7zps
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4161/psb.3.7.6049
+  title: The transcription factor MtSERF1 may function as a nexus between stress and
+    development in somatic embryogenesis in<i>Medicago truncatula</i>
+  authors:
+  - Feky R. Mantiri
+  - Sergey Kurdyukov
+  - Shih-Kuang Chen
+  - Ray J. Rose
+  publisher: Plant Signaling &amp; Behavior
+  date: '2008-07-01'
+  link: https://doi.org/fhzhbk
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1104/pp.107.110379
+  title: The Transcription Factor MtSERF1 of the ERF Subfamily Identified by Transcriptional
+    Profiling Is Required for Somatic Embryogenesis Induced by Auxin Plus Cytokinin
+    in <i>Medicago truncatula</i>
+  authors:
+  - Feky R. Mantiri
+  - Sergey Kurdyukov
+  - Dasharath P. Lohar
+  - Natalya Sharopova
+  - Nasir A. Saeed
+  - Xin-Ding Wang
+  - Kathryn A. VandenBosch
+  - Ray J. Rose
+  publisher: Plant Physiology
+  date: '2008-01-30'
+  link: https://doi.org/fg5qdf
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00425-005-0215-7
+  title: "Genetic and biochemical evidence for involvement of HOTHEAD in the biosynthesis\
+    \ of long-chain \u03B1-,\u03C9-dicarboxylic fatty acids and formation of extracellular\
+    \ matrix"
+  authors:
+  - Sergey Kurdyukov
+  - Andrea Faust
+  - Sandra Trenkamp
+  - "Sascha B\xE4r"
+  - Rochus Franke
+  - Nadia Efremova
+  - Klaus Tietjen
+  - Lukas Schreiber
+  - Heinz Saedler
+  - Alexander Yephremov
+  publisher: Planta
+  date: '2006-01-11'
+  link: https://doi.org/bggwmq
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1105/tpc.105.036079
+  title: "The Epidermis-Specific Extracellular BODYGUARD Controls Cuticle Development\
+    \ and Morphogenesis in\n                    <i>Arabidopsis</i>"
+  authors:
+  - Sergey Kurdyukov
+  - Andrea Faust
+  - Christiane Nawrath
+  - "Sascha Ba\u0308r"
+  - Derry Voisin
+  - Nadia Efremova
+  - Rochus Franke
+  - Lukas Schreiber
+  - Heinz Saedler
+  - "Jean-Pierre Me\u0301traux"
+  - Alexander Yephremov
+  publisher: The Plant Cell
+  date: '2006-01-13'
+  link: https://doi.org/czvkbp
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0165-022x(01)00173-7
+  title: Subtractive hybridization of biotinylated DNA in phenol emulsion
+  authors:
+  - Alexandr G Laman
+  - Sergei G Kurjukov
+  - Elena V Bulgakova
+  - Nadezhda N Anikeeva
+  - Feodor A Brovko
+  publisher: Journal of Biochemical and Biophysical Methods
+  date: '2001-12-01'
+  link: https://doi.org/fn3cjq
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0378-1119(01)00570-4
+  title: 'Full-sized HERV-K (HML-2) human endogenous retroviral LTR sequences on human
+    chromosome 21: map locations and evolutionary history'
+  authors:
+  - Sergey G Kurdyukov
+  - Yuri B Lebedev
+  - Irena I Artamonova
+  - Tatyana N Gorodentseva
+  - Anastasia V Batrak
+  - Ilgar Z Mamedov
+  - Tatyana L Azhikina
+  - Svetlana P Legchilina
+  - Irina G Efimenko
+  - Katheleen Gardiner
+  - Eugene D Sverdlov
+  publisher: Gene
+  date: '2001-07-01'
+  link: https://doi.org/ffxf4x
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0378-1119(00)00062-7
+  title: Differences in HERV-K LTR insertions in orthologous loci of humans and great
+    apes
+  authors:
+  - Yuri B. Lebedev
+  - Oksana S. Belonovitch
+  - Natalia V. Zybrova
+  - Paul P. Khil
+  - Sergey G. Kurdyukov
+  - Tatyana V. Vinogradova
+  - Gerhard Hunsmann
+  - Eugene D. Sverdlov
+  publisher: Gene
+  date: '2000-04-01'
+  link: https://doi.org/cg4st9
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/advs.202203480
+  title: LAFITE Reveals the Complexity of Transcript Isoforms in Subcellular Fractions
+  authors:
+  - Jizhou Zhang
+  - Xiao Lin
+  - Yuelong Chen
+  - "Tsz\u2010Ho Li"
+  - "Alan Chun\u2010Kit Lee"
+  - "Eugene Yui\u2010Ching Chow"
+  - "William Chi\u2010Shing Cho"
+  - "Ting\u2010Fung Chan"
+  publisher: Advanced Science
+  date: '2022-12-03'
+  link: https://doi.org/hbmvw8
+  orcid: 0000-0002-2699-3616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopha.2022.113172
+  title: "Endothelium-targeted delivery of PPAR\u03B4 by adeno-associated virus serotype\
+    \ 1 ameliorates vascular injury induced by hindlimb ischemia in obese mice"
+  authors:
+  - Yalan Wu
+  - Xiao Lin
+  - Huiling Hong
+  - Yee Lok Fung
+  - Xiaoyun Cao
+  - Joyce Ka Yu Tse
+  - Tsz Ho Li
+  - Ting Fung Chan
+  - Xiao Yu Tian
+  publisher: Biomedicine &amp; Pharmacotherapy
+  date: '2022-07-01'
+  link: https://doi.org/hbmvw9
+  orcid: 0000-0002-2699-3616
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms23126796
+  title: Single-Cell Atlas of the Drosophila Leg Disc Identifies a Long Non-Coding
+    RNA in Late Development
+  authors:
+  - Joyce Tse
+  - Tsz Ho Li
+  - Jizhou Zhang
+  - Alan Chun Kit Lee
+  - Ivy Lee
+  - Zhe Qu
+  - Xiao Lin
+  - Jerome Hui
+  - Ting-Fung Chan
+  publisher: International Journal of Molecular Sciences
+  date: '2022-06-18'
+  link: https://doi.org/hbmvxb
+  orcid: 0000-0002-2699-3616
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ymthe.2024.01.023
   title: Base editing of key residues in the BCL11A-XL-specific zinc finger domains
     derepresses fetal globin expression
