@@ -15,5 +15,5 @@ Michael completed a Bachelor of Advanced Science (Honours 1st Class) majoring in
 
 {% include list.html data="citations" component="citation" style="rich" filters="authors:Michael F O'Dea" %}
 {% include list.html data="citations" component="citation" style="rich" filters="authors:Michael O'Dea" %}
-{% include list.html data="citations" component="citation" style="rich" filters="authors:M F O'Dea" %}
+{% include list.html data="citations" component="citation" style="rich" filters="authors:Michael F\. O'Dea" %}
 {% include list.html data="citations" component="citation" style="rich" filters="authors:M\.O'Dea" %}

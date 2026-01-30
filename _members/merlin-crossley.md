@@ -32,3 +32,4 @@ In 2021 a new species of iridescent butterfly bobtail squid was named in his hon
 
 {% include list.html data="citations" component="citation" style="rich" filters="orcid: 0000-0003-2057-3642" %}
 {% include list.html data="citations" component="citation" style="rich" filters="authors:Merlin Crossley" %}
+{% include list.html data="citations" component="citation" style="rich" filters="authors:M Crossley" %}
