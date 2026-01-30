@@ -20,4 +20,4 @@ Sergey got his PhD in human genetics from the Institute of Bioorganic chemisty (
 
 {% include list.html data="citations" component="citation" style="rich" filters="authors:Sergey Kurdyukov" %}
 {% include list.html data="citations" component="citation" style="rich" filters="authors:S Kurdyukov" %}
-{% include list.html data="citations" component="citation" style="rich" filters="Kurdyukov S" %}
+{% include list.html data="citations" component="citation" style="rich" filters="authors:Kurdyukov S" %}
