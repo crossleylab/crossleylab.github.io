@@ -100,7 +100,7 @@
   - Kate G.R. Quinlan
   - Nicholas A. Williamson
   - Marc R. Wilkins
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-11'
   link: https://doi.org/g86m5g
   orcid: 0000-0003-1390-5450
@@ -248,8 +248,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.11.20.392282
-  title: <i>ACTN3</i>genotype influences skeletal muscle mass regulation and response
-    to dexamethasone
+  title: "<i>ACTN3</i>\n                  genotype influences skeletal muscle mass\
+    \ regulation and response to dexamethasone"
   authors:
   - J.T. Seto
   - K.N. Roeszler
@@ -263,7 +263,7 @@
   - P. Gregorevic
   - P.J. Houweling
   - K.N. North
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-11-23'
   link: https://doi.org/ghmng5
   orcid: 0000-0003-1390-5450
@@ -1165,8 +1165,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MCB.00173-12
-  title: The CACCC-Binding Protein KLF3/BKLF Represses a Subset of KLF1/EKLF Target
-    Genes and Is Required for Proper Erythroid Maturation<i>In Vivo</i>
+  title: "The CACCC-Binding Protein KLF3/BKLF Represses a Subset of KLF1/EKLF Target\
+    \ Genes and Is Required for Proper Erythroid Maturation\n                    <i>In\
+    \ Vivo</i>"
   authors:
   - Alister P. W. Funnell
   - Laura J. Norton
