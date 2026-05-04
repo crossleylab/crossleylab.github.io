@@ -2653,6 +2653,23 @@
   orcid: 0000-0001-5824-0443
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3390/antiox9020104
+  title: Antioxidant-Conjugated Peptide Attenuated Metabolic Reprogramming in Pulmonary
+    Hypertension
+  authors:
+  - Mathews Valuparampil Varghese
+  - Maki Niihori
+  - Cody A Eccles
+  - Sergey Kurdyukov
+  - Joel James
+  - Olga Rafikova
+  - Ruslan Rafikov
+  publisher: Antioxidants
+  date: '2020-01-25'
+  link: https://doi.org/gnrjx5
+  orcid: 0000-0001-5824-0443
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1074/jbc.ra119.011178
   title: Lactate production is a prioritized feature of adipocyte metabolism
   authors:
