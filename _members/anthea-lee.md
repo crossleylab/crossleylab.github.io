@@ -2,7 +2,7 @@
 name: Anthea Lee
 image: images/anthea.jpeg
 role: phd
-description: PhD Student
+description: Postdoctoral Fellow
 aliases:
     - A Lee
     - Anthea Lee

@@ -8,9 +8,12 @@ aliases:
     - S Kurdyukov
     - Kurdyukov S
     - Kurdyukov Sergey
+links:
+    google-scholar: HrSJSikAAAAJ
+    orcid: 0000-0001-5824-0443
 ---
 
-Sergey got his PhD in human genetics from the Institute of Bioorganic chemisty (Moscow) in 2000. Since then he worked  both in academia and in the Biotech industry. His research interests are in the area of gene regulation, transcription factors and genome editing. His hobbies are swimming, gardening and bushwalking.
+Sergey got his PhD in human genetics from the Institute of Bioorganic chemisty (Moscow) in 2000. Since then he worked both in academia and in the Biotech industry. His research interests are in the area of gene regulation, transcription factors and genome editing. His hobbies are swimming, gardening and bushwalking.
 
 {% include section.html %}
 ## Sergey's Publications

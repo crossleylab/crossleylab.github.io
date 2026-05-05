@@ -1,8 +1,8 @@
 ---
 name: Ziggi Zikmann
 image: images/photo.jpg
-role: undergrad
+role: phd
 group: active
-description: Honours Student
+description: PhD Student
 ---
 
