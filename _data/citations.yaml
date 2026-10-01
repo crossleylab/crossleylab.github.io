@@ -1905,7 +1905,7 @@
   - Alexis Verger
   - "Jos\xE9 Perdomo"
   - Merlin Crossley
-  publisher: EMBO reports
+  publisher: The EMBO Reports
   date: '2003-02-01'
   link: https://doi.org/cv52r6
   orcid: 0000-0003-2057-3642
@@ -2253,10 +2253,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/emboj/17.17.5129
-  title: Cloning and characterization of mCtBP2, a co-repressor that associates with
-    basic Kruppel-like factor and other mammalian transcriptional regulators
+  title: "Cloning and characterization of mCtBP2, a co\u2010repressor that associates\
+    \ with basic Kr\xFCppel\u2010like factor and other mammalian transcriptional regulators"
   authors:
-  - J. Turner
+  - Jeremy Turner
+  - Merlin Crossley
   publisher: The EMBO Journal
   date: '1998-09-01'
   link: https://doi.org/bwbfs8
@@ -2918,9 +2919,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1104/pp.107.110379
-  title: The Transcription Factor MtSERF1 of the ERF Subfamily Identified by Transcriptional
-    Profiling Is Required for Somatic Embryogenesis Induced by Auxin Plus Cytokinin
-    in <i>Medicago truncatula</i>
+  title: "The Transcription Factor MtSERF1 of the ERF Subfamily Identified by Transcriptional\
+    \ Profiling Is Required for Somatic Embryogenesis Induced by Auxin Plus Cytokinin\
+    \ in\n                    <i>Medicago truncatula</i>"
   authors:
   - Feky R. Mantiri
   - Sergey Kurdyukov
