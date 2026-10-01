@@ -3,6 +3,7 @@ name: Sonia Goozee
 image: images/sonia-goozee.jpg
 role: phd
 description: Postdoctoral Fellow
+group: alum
 aliases:
     - S Goozee
     - Goozee S

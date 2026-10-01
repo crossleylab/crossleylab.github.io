@@ -3,6 +3,7 @@ name: Anthea Lee
 image: images/anthea.jpeg
 role: phd
 description: Postdoctoral Fellow
+group: alum
 aliases:
     - A Lee
     - Anthea Lee
